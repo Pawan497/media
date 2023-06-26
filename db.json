@@ -1,0 +1,205 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Tammy Hauck",
+      "id": 12
+    },
+    {
+      "name": "Tammy Macejkovic",
+      "id": 13
+    },
+    {
+      "name": "Estelle Hoppe",
+      "id": 14
+    },
+    {
+      "name": "Alison Marks",
+      "id": 15
+    },
+    {
+      "name": "Marlene Roberts",
+      "id": 16
+    },
+    {
+      "name": "Darin Herzog",
+      "id": 18
+    },
+    {
+      "name": "Douglas Bartoletti",
+      "id": 19
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 12,
+      "title": "Recycled Granite Car",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Refined Wooden Chips",
+      "id": 12
+    },
+    {
+      "userId": 13,
+      "title": "Licensed Plastic Shirt",
+      "id": 13
+    },
+    {
+      "userId": 13,
+      "title": "Rustic Concrete Hat",
+      "id": 14
+    },
+    {
+      "userId": 12,
+      "title": "Tasty Fresh Mouse",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Wooden Towels",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Concrete Fish",
+      "id": 17
+    },
+    {
+      "userId": 12,
+      "title": "Licensed Frozen Salad",
+      "id": 19
+    },
+    {
+      "userId": 12,
+      "title": "Sleek Concrete Mouse",
+      "id": 20
+    },
+    {
+      "userId": 15,
+      "title": "Intelligent Bronze Chips",
+      "id": 21
+    },
+    {
+      "userId": 15,
+      "title": "Luxurious Plastic Towels",
+      "id": 24
+    },
+    {
+      "userId": 18,
+      "title": "Sleek Concrete Chicken",
+      "id": 25
+    },
+    {
+      "userId": 16,
+      "title": "Tasty Soft Shoes",
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Granite Fish",
+      "id": 28
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Wooden Fish",
+      "id": 29
+    },
+    {
+      "userId": 15,
+      "title": "Licensed Metal Table",
+      "id": 30
+    },
+    {
+      "userId": 13,
+      "title": "Oriental Wooden Mouse",
+      "id": 31
+    },
+    {
+      "userId": 1,
+      "title": "Practical Granite Cheese",
+      "id": 32
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Rubber Soap",
+      "id": 33
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1453122905964544",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1363516225224704",
+      "id": 2
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=9003985606279168",
+      "id": 5
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1344348268527616",
+      "id": 6
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=725885380460544",
+      "id": 7
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6314067882934272",
+      "id": 8
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8670555955789824",
+      "id": 9
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1970722696069120",
+      "id": 10
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8033033431023616",
+      "id": 11
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8297899054071808",
+      "id": 12
+    },
+    {
+      "albumId": 32,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5702686183784448",
+      "id": 13
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4180573081829376",
+      "id": 14
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8949540721786880",
+      "id": 15
+    }
+  ]
+}
